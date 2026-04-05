@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         
         // Variables
-        String name = "Bro Code";
+        String name = "Prince";
         int age = 30;
         int year = 2025;
         double price = 199999.99;
