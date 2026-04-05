@@ -46,7 +46,7 @@ public class Main {
       }
   // 5. Strings (String):Strings are reference data types that store a sequence of characters, enclosed in double quotes.
 
-      String name = "Bro Code";
+      String name = "Prince";
       String food = "pizza";
       String email = "fake123@gmail.com";
       String car = "Mustang";
