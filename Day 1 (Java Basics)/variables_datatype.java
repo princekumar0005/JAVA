@@ -55,6 +55,20 @@ public class Main {
       System.out.println("Hello " + name);
       System.out.println("Your favorite food is " + food);
 
+      // Combined Output
+        System.out.println("Hello " + name);
+        System.out.println("You are " + age + " years old");
+        System.out.println("Your GPA is " + gpa);
+        System.out.println("Your average letter grade is " + grade);
+        System.out.println("Your choice is a " + color + " " + year + " " + car);
+        System.out.println("The price is " + currency + price);
+
+        if (forSale) {
+            System.out.println("There is a " + car + " for sale");
+        } else {
+            System.out.println(car + " is not for sale");
+        }
+
       
     }
 }
