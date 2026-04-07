@@ -38,16 +38,9 @@ public class Main {
        c--; // Decrement: c = c - 1 -> 0
 
        System.out.println(c);
-      
 
-       
-    }
-}
-
-// 4. Order of Operations (PEMDAS)
+  // 4. Order of Operations (PEMDAS)
      //Java follows the standard order of operations: Parentheses, Exponents, Multiplication, Division, Addition, Subtraction.
-public class Main {
-    public static void main(String[] args) {
         
         // Example equation
         double result = 3 + 4 * (7 - 5) / 2.0;
@@ -60,5 +53,10 @@ public class Main {
         */
 
         System.out.println(result); // Outputs: 7.0
+        
+      
+
+       
     }
 }
+
