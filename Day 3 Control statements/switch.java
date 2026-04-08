@@ -1,6 +1,14 @@
+import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
-        int i = 3;
+        Scanner scanner = new Scanner(System.in);
+        
+    
+        System.out.print("Enter your nanumber: ");
+        int i = scanner.nextInt();
+        
+        
+        
 
         switch (i) {
             case 1:
@@ -15,6 +23,9 @@ public class Main {
             default:
                 System.out.println("i is greater than 3"); 
                 break;
+            
         }
+        scanner.close();
     }
 }
+
