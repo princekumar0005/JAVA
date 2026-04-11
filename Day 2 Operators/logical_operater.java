@@ -2,7 +2,7 @@
 // Used to combine multiple conditions
 //Result is always true or false
 
-public class Main {
+public class logical_operater {
     public static void main(String[] args) {
 
       //1. AND Operator (&&)
