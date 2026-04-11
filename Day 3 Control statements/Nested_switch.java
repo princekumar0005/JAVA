@@ -1,4 +1,4 @@
-public class Main {
+public class Nested_switch {
     public static void main(String[] args) {
         int j = 5;
         int k = 1;
