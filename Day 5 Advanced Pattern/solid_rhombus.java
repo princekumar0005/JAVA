@@ -2,7 +2,7 @@
 //A rhombus is essentially a square shifted by spaces. The number of spaces decreases as the row number increases.
 
 
-public class Rhombus {
+public class solid_rhombus {
     public static void main(String args[]) {
         int n = 5;
 
