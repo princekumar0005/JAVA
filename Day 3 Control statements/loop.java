@@ -1,4 +1,4 @@
-public class LoopsAllInOne {
+public class loop {
 
     public static void main(String[] args) {
 
