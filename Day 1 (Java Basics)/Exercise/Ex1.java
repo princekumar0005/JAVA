@@ -1,6 +1,6 @@
 // Putting It All Together (Variable and data types)
 
-public class Main {
+public class Ex1 {
     public static void main(String[] args) {
         
         // Variables
