@@ -1,4 +1,4 @@
-public class Main {
+public class variables_datatype {
     public static void main(String[] args) {
 
       //1. Integers (int):Integers are primitive data types used for whole numbers. 
