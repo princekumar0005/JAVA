@@ -3,7 +3,7 @@
 
 import java.util.Scanner;
 
-public class Main {
+public class Ex2 {
     public static void main(String[] args) {
 
         double width = 0;
