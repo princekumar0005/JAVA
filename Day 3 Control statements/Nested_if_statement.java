@@ -1,4 +1,4 @@
-public class Main {
+public class Nested_if_statement {
     public static void main(String[] args) {
 
         // 1. Declare variables
