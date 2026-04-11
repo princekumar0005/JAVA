@@ -1,4 +1,4 @@
-public class Main {
+public class printf {
     public static void main(String[] args) {
 
         // --- SECTION 1: BASIC SPECIFIERS  ---
