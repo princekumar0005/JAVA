@@ -13,7 +13,7 @@
 //.    >=.           Greater than or equal    a >= b
 //.    <=.           Less than or equal.      a <= b
 
-public class Main {
+public class relational_operators {
     public static void main(String[] args) {
 
         int a = 10;
