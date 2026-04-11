@@ -1,5 +1,5 @@
 // 1. Basic Arithmetic Operators: These are the standard mathematical operations
-public class Main {
+public class arithmetic_operators{
     public static void main(String[] args) {
         int x = 10;
         int y = 2;
