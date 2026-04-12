@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class Main {
+public class Ex4 {
     public static void main(String[] args) {
 
         // WEIGHT CONVERSION PROGRAM
