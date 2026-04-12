@@ -2,7 +2,7 @@
 //This final exercise calculates the circumference, area, and volume based on a user-provided radius
 import java.util.Scanner;
 
-public class Main {
+public class Ex2 {
     public static void main(String[] args) {
         
         Scanner scanner = new Scanner(System.in);
