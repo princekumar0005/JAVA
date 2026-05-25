@@ -8,14 +8,14 @@ This repository contains **day-by-day Java OOP concepts** with examples and expl
 
 | Day | Topic |
 |-----|------|
-| Day 1 | Introduction |
-| Day 2 | Classes & Objects And Constructors |
-| Day 3 | Inheritance And Encapsulation |
-| Day 4 | Polymorphism |
-| Day 5 | Abstraction |
-| Day 6 | Interfaces |
-| Day 7 | Packages & Imports |
-| Day 8 | Mini Project |
+| Day 001 | Introduction |
+| Day 1 | Classes & Objects And Constructors |
+| Day 2 | Inheritance And Encapsulation |
+| Day 3 | Polymorphism |
+| Day 4 | Abstraction |
+| Day 5 | Interfaces |
+| Day 6 | Packages & Imports |
+| Day 7 | Mini Project |
 
 ---
 
